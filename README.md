@@ -6,3 +6,4 @@
 6. git reset / git reset --hard
 7. git diff
 8. git branch / git branch develop(название новой ветки)
+9. git checkout master (для переключения между ветками)
