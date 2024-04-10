@@ -3,3 +3,5 @@
 3. git commit -m "init project"
 4. git log / git log --oneline
 5. git push[email] [branch]
+6. git branch
+7. git checkout
